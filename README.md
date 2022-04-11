@@ -5,10 +5,13 @@ Exprienced in:
 - Java
 - Kotlin
 - Javascript
+- Typescript
 - Spring
 - Akka
 - Vert.x
 - Loopback 3&4
-- Express    
+- Express.js
+- MongoDB
+- PostgreSQL
 
 Currently working at [Libratech IT Solutions](https://libratech.ir/)  
